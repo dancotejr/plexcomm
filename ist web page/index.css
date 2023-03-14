@@ -1,0 +1,58 @@
+body {
+    font-family: "open sans",sans-serif;
+    color: beige;
+
+}
+a{
+    color: black;
+}
+a:hover{
+    color: crimson;
+    text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: "roboto",sans-serif;
+}
+header{
+    background-color: azure;
+    padding: 15px;
+}
+header .logo{
+    font-size: 28px;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+header .logo a{
+    color:black;
+}
+.nav-menu ul{
+  margin: 0;
+  padding: 0;
+ list-style: none;
+
+}
+.nav-menu > ul{
+    display: flex;
+}
+.nav-menu > ul > li{
+    position: relative;
+    white-space: nowrap;
+    padding:10px 0 10px 22px;
+}
+.nav-menu a {
+    display: block;
+    position: relative;
+    color: black;
+    font-size: 14px;
+    transition: 0.3s;
+    font-weight: 500;
+    font-family: "roboto",sans-serif;
+}
+.nav-menu > ul > li a:hover{
+   
+    color: red;
+}
+.nav-menu 
