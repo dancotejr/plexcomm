@@ -49,8 +49,7 @@ header .logo a{
     font-weight: 500;
     font-family: "roboto",sans-serif;
 }
-.nav-menu > ul > li a:hover{
-   
+.nav-menu > ul > li a:hover{   
     color: red;
 }
 .nav-menu 
