@@ -31,7 +31,6 @@ header .logo a{
   margin: 0;
   padding: 0;
  list-style: none;
-
 }
 .nav-menu > ul{
     display: flex;
